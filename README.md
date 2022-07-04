@@ -4,7 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/AryanTejiyan?style=social)](https://https://github.com/AryanTejiyan)
 
-<h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
+<h2 align="center"><img src="https://user-images.githubusercontent.com/82720501/177132583-06e60e05-be3f-4b24-8bb3-5047035b99e1.gif"></h2>
 
 <h2>About me</h2>
 
